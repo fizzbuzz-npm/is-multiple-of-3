@@ -1,3 +1,3 @@
-declare const isMultipleOf: (value: number | any, multiple: number | any) => boolean;
+declare const isMultipleOf3: (value: number | any) => boolean;
 
-export = isMultipleOf;
+export = isMultipleOf3;
