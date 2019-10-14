@@ -1,6 +1,6 @@
 {
   "name": "is-multiple-of-3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Is `value` a multiple of 3?",
   "homepage": "https://github.com/fizzbuzz-npm/is-multiple-of-3",
   "repository": "github:buzzbuzz-npm/is-multiple-of-3",
